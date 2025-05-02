@@ -1,4 +1,4 @@
-# 🚗 Auto Emergency Brake System with YOLOv5
+# 🚗 Auto Emergency Brake System with (YOLOv5)
 
 This project implements an **automatic emergency braking (AEB)** system using computer vision and object detection. It processes a video input to identify approaching objects, estimate their distance, and trigger braking warnings at various severity levels.
 
